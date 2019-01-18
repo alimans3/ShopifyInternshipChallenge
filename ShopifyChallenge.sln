@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopifyChallenge", "ShopifyChallenge\ShopifyChallenge.csproj", "{ADFE7F91-30B3-41E9-B6E8-85803136BD61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopifyChallenge.Core", "ShopifyChallenge.Core\ShopifyChallenge.Core.csproj", "{552B3BC9-42B7-4691-94C6-756DD0AA3633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFE7F91-30B3-41E9-B6E8-85803136BD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFE7F91-30B3-41E9-B6E8-85803136BD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFE7F91-30B3-41E9-B6E8-85803136BD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFE7F91-30B3-41E9-B6E8-85803136BD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552B3BC9-42B7-4691-94C6-756DD0AA3633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B3BC9-42B7-4691-94C6-756DD0AA3633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B3BC9-42B7-4691-94C6-756DD0AA3633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B3BC9-42B7-4691-94C6-756DD0AA3633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
